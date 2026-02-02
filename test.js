@@ -1,3 +1,5 @@
+//This is a test
+
 console.log("Hello Finductive!");
 console.log("Testing VS Code shortcuts");
 console.log("Testing VS Code shortcuts");
